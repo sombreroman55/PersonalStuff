@@ -1,0 +1,1 @@
+c:\users\droo\documents\visual studio 2013\Projects\AStar\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config

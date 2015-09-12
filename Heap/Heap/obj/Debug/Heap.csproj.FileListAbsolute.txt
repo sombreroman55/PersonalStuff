@@ -1,0 +1,6 @@
+c:\users\droo\documents\visual studio 2013\Projects\Heap\Heap\bin\Debug\Heap.exe.config
+c:\users\droo\documents\visual studio 2013\Projects\Heap\Heap\bin\Debug\Heap.exe
+c:\users\droo\documents\visual studio 2013\Projects\Heap\Heap\bin\Debug\Heap.pdb
+c:\users\droo\documents\visual studio 2013\Projects\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
+c:\users\droo\documents\visual studio 2013\Projects\Heap\Heap\obj\Debug\Heap.exe
+c:\users\droo\documents\visual studio 2013\Projects\Heap\Heap\obj\Debug\Heap.pdb

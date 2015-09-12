@@ -1,0 +1,3 @@
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe.config
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.exe
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.pdb

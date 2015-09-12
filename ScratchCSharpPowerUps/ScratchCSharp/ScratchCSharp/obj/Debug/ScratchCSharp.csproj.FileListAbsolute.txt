@@ -1,0 +1,12 @@
+C:\Users\jking\Documents\Visual Studio 2013\Projects\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe.config
+C:\Users\jking\Documents\Visual Studio 2013\Projects\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe
+C:\Users\jking\Documents\Visual Studio 2013\Projects\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.pdb
+C:\Users\jking\Documents\Visual Studio 2013\Projects\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.exe
+C:\Users\jking\Documents\Visual Studio 2013\Projects\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.pdb
+C:\Users\jking\Documents\Visual Studio 2013\Projects\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe.config
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.exe
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.pdb
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.pdb
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharpPowerUps\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.csprojResolveAssemblyReference.cache

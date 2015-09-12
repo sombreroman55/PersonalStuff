@@ -1,0 +1,6 @@
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharp-1\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe.config
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharp-1\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.exe
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharp-1\ScratchCSharp\ScratchCSharp\bin\Debug\ScratchCSharp.pdb
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharp-1\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.exe
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharp-1\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.pdb
+C:\Users\Droo\Documents\Visual Studio 2013\Projects\ScratchCSharp-1\ScratchCSharp\ScratchCSharp\obj\Debug\ScratchCSharp.csprojResolveAssemblyReference.cache

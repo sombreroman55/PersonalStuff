@@ -1,0 +1,6 @@
+c:\users\droo\documents\visual studio 2013\Projects\AStar\AStar\bin\Debug\AStar.exe.config
+c:\users\droo\documents\visual studio 2013\Projects\AStar\AStar\bin\Debug\AStar.exe
+c:\users\droo\documents\visual studio 2013\Projects\AStar\AStar\bin\Debug\AStar.pdb
+c:\users\droo\documents\visual studio 2013\Projects\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+c:\users\droo\documents\visual studio 2013\Projects\AStar\AStar\obj\Debug\AStar.exe
+c:\users\droo\documents\visual studio 2013\Projects\AStar\AStar\obj\Debug\AStar.pdb

@@ -1,0 +1,6 @@
+c:\users\droo\documents\visual studio 2013\Projects\MonsterChase\MonsterChase\bin\Debug\MonsterChase.exe.config
+c:\users\droo\documents\visual studio 2013\Projects\MonsterChase\MonsterChase\obj\Debug\MonsterChase.csprojResolveAssemblyReference.cache
+c:\users\droo\documents\visual studio 2013\Projects\MonsterChase\MonsterChase\bin\Debug\MonsterChase.exe
+c:\users\droo\documents\visual studio 2013\Projects\MonsterChase\MonsterChase\bin\Debug\MonsterChase.pdb
+c:\users\droo\documents\visual studio 2013\Projects\MonsterChase\MonsterChase\obj\Debug\MonsterChase.exe
+c:\users\droo\documents\visual studio 2013\Projects\MonsterChase\MonsterChase\obj\Debug\MonsterChase.pdb
