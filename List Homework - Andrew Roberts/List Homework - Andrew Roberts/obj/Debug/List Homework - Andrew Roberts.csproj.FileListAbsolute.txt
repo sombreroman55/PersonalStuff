@@ -1,6 +1,0 @@
-c:\users\droo\documents\visual studio 2013\Projects\List Homework - Andrew Roberts\List Homework - Andrew Roberts\bin\Debug\List Homework - Andrew Roberts.exe.config
-c:\users\droo\documents\visual studio 2013\Projects\List Homework - Andrew Roberts\List Homework - Andrew Roberts\bin\Debug\List Homework - Andrew Roberts.exe
-c:\users\droo\documents\visual studio 2013\Projects\List Homework - Andrew Roberts\List Homework - Andrew Roberts\bin\Debug\List Homework - Andrew Roberts.pdb
-c:\users\droo\documents\visual studio 2013\Projects\List Homework - Andrew Roberts\List Homework - Andrew Roberts\obj\Debug\List Homework - Andrew Roberts.csprojResolveAssemblyReference.cache
-c:\users\droo\documents\visual studio 2013\Projects\List Homework - Andrew Roberts\List Homework - Andrew Roberts\obj\Debug\List Homework - Andrew Roberts.exe
-c:\users\droo\documents\visual studio 2013\Projects\List Homework - Andrew Roberts\List Homework - Andrew Roberts\obj\Debug\List Homework - Andrew Roberts.pdb
