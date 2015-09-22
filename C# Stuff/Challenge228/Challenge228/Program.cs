@@ -10,35 +10,30 @@ namespace Challenge228
     {
         static void Main(string[] args)
         {
-            string[] challengeWords = {"billowy", "biopsy", "chinos", "defaced", "chintz", "sponged", "bijoux", "abhors", "fiddle", "begins", "chimps", "wronged" };
+            string[] challengeWords = { "billowy", "biopsy", "chinos", "defaced", "chintz", "sponged", "bijoux", "abhors", "fiddle", "begins", "chimps", "wronged" };
             foreach (string word in challengeWords)
             {
-                Console.WriteLine(Analyzer(word));
+                Console.WriteLine(CharToInt(word));
             }
             Console.Read();
         }
 
-        public static string Analyzer(string s)
+        public static int[] CharToInt(string s)
         {
-            int i = 0;
-            while ( i < s.Length-1)
+            int[] charValues = new int[s.Length];
+            for (int charIndex = 0; charIndex < s.Length; charIndex++)
             {
-                if (s[i] <= s[i + 1])
-                {
-                    i++;
-                    if (i == s.Length-1)
-                        return (s + "  IN ORDER");
-                }
-                else if (s[i] >= s[i+1])
-                {
-                    i++;
-                    if (i == s.Length-1)
-                        return (s + "  REVERSE ORDER");
-                }
-                else
-                    return (s + "  NOT IN ORDER");
+                charValues[charIndex] = (int)s[charIndex];
             }
-            return "This code isn't working";
+            return charValues;
         }
+
+        //public static string Analyzer(string s)
+        //{
+        //    CharToInt(s);
+
+        //}
+
+
     }
 }
